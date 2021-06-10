@@ -73,6 +73,7 @@ import {Evga} from './evga';
 import {EvgaEu} from './evga-eu';
 import {Expert} from './expert';
 import {Futurex} from './futurex';
+import {DigitecCH} from './digitec-ch';
 import {Galaxus} from './galaxus';
 import {Game} from './game';
 import {Gamestop} from './gamestop';
@@ -231,6 +232,7 @@ export const storeList = new Map([
   [EvgaEu.name, EvgaEu],
   [Expert.name, Expert],
   [Futurex.name, Futurex],
+  [DigitecCH.name, DigitecCH],
   [Galaxus.name, Galaxus],
   [Game.name, Game],
   [Gamestop.name, Gamestop],
